@@ -1,6 +1,6 @@
 ### Gatsby page context example
 
-Example of passing an env var through to a page query in Gatsby.
+Example of passing an env var through to a page query in Gatsby. Run with `GATSBY_FILE_EXT=png gatsby develop` to get a result on the index page.
 
 See [gatsby-node.js](./gatsby-node.js) and [src/pages/index.js](src/pages/index.js) for example code.
 
